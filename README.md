@@ -28,15 +28,24 @@
   <strong>For discussion, queries, and freelance work. Do reach me.👆👆👆</strong>
 </div>
 
-**Table of Contents:**
+# Table of Contents
 
-1. [Project Overview](#-project-overview)
-2. [Features](#-features)
-      - [Future Enhancements](#-future-enhancements)
-4. [Usage Examples](#-usage-examples)
-      - [Setup and Installation Instructions](#-setup-and-installation-instructions)
-6. [Troubleshooting Tips](#-troubleshooting-tips)
-7. [Contribution Guidelines](#-contribution-guidelines)
+- [1. Project Overview](#1-project-overview)
+- [2. Features](#2-features)
+  - [LLM Integration](#llm-integration)
+  - [Image Interpretation](#image-interpretation)
+  - [Performance Analysis](#performance-analysis)
+  - [Custom Knowledge Base](#custom-knowledge-base)
+  - [Admin Panel](#admin-panel)
+- [3. Future Enhancements (To-Do)](#3-future-enhancements-to-do)
+  - [Voice Integration](#voice-integration)
+  - [Topic Specific Training](#topic-specific-training)
+  - [Interactive Quizzes](#interactive-quizzes)
+- [4. Usage Examples](#4-usage-examples)
+- [5. Setup and Installation Instructions](#5-setup-and-installation-instructions)
+- [6. Troubleshooting Tips](#6-troubleshooting-tips)
+- [7. Contribution Guidelines](#7-contribution-guidelines)
+
 
 
 ## 📜 1. Project Overview
