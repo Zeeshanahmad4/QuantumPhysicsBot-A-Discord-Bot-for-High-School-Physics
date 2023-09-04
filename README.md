@@ -32,11 +32,77 @@
 
 1. [Project Overview](#1-project-overview)
 2. [Features](#2-features)
-     - [Future Enhancements (To-Do)](#3-future-enhancements-to-do)
+    - [LLM Integration](#llm-integration)
+    - [Image Interpretation](#image-interpretation)
+    - [Performance Analysis](#performance-analysis)
+    - [Custom Knowledge Base](#custom-knowledge-base)
+    - [Admin Panel](#admin-panel)
+3. [Future Enhancements (To-Do)](#3-future-enhancements-to-do)
+    - [Voice Integration](#voice-integration)
+    - [Topic Specific Training](#topic-specific-training)
+    - [Interactive Quizzes](#interactive-quizzes)
 4. [Usage Examples](#4-usage-examples)
-     - [Setup and Installation Instructions](#5-setup-and-installation-instructions)
+5. [Setup and Installation Instructions](#5-setup-and-installation-instructions)
 6. [Troubleshooting Tips](#6-troubleshooting-tips)
 7. [Contribution Guidelines](#7-contribution-guidelines)
+
+---
+
+<a id="1-project-overview"></a>
+## 1. Project Overview
+
+... [Content of this section] ...
+
+---
+
+<a id="2-features"></a>
+## 🚀 2. Features
+
+... [Content of this section] ...
+
+- <a id="llm-integration"></a>**LLM Integration**: ...
+- <a id="image-interpretation"></a>**Image Interpretation**: ...
+- ... [and so on for each feature] ...
+
+---
+
+<a id="3-future-enhancements-to-do"></a>
+### 🌱 Future Enhancements (To-Do)
+
+... [Content of this section] ...
+
+- <a id="voice-integration"></a>**Voice Integration**: ...
+- ... [and so on for each feature in this section] ...
+
+---
+
+<a id="4-usage-examples"></a>
+## 💡 4. Usage Examples
+
+... [Content of this section] ...
+
+---
+
+<a id="5-setup-and-installation-instructions"></a>
+🔧 5. Setup and Installation Instructions
+
+... [Content of this section] ...
+
+---
+
+<a id="6-troubleshooting-tips"></a>
+## 🩺 6. Troubleshooting Tips
+
+... [Content of this section] ...
+
+---
+
+<a id="7-contribution-guidelines"></a>
+## 🤝 7. Contribution Guidelines
+
+... [Content of this section] ...
+
+
 
 
 
