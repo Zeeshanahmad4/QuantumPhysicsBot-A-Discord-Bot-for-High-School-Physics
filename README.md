@@ -34,25 +34,24 @@
 - [Features](#features-)
     - [Future Enhancements (To-Do)](#-future-enhancements-(to-do )
 
-
-
 # Table of Contents
 
-- [Project Overview 🚀](#project-overview-🚀)
-- [Features 🚀](#features-🚀)
+- [Project Overview](#project-overview)
+- [Features](#features)
   - [LLM Integration](#llm-integration)
   - [Image Interpretation](#image-interpretation)
   - [Performance Analysis](#performance-analysis)
   - [Custom Knowledge Base](#custom-knowledge-base)
   - [Admin Panel](#admin-panel)
-- [Future Enhancements (To-Do) 🌱](#future-enhancements-to-do-🌱)
+- [Future Enhancements (To-Do)](#future-enhancements-to-do)
   - [Voice Integration](#voice-integration)
   - [Topic Specific Training](#topic-specific-training)
   - [Interactive Quizzes](#interactive-quizzes)
-- [Usage Examples 💡](#usage-examples-💡)
-- [Setup and Installation Instructions 🔧](#setup-and-installation-instructions-🔧)
-- [Troubleshooting Tips 🩺](#troubleshooting-tips-🩺)
-- [Contribution Guidelines 🤝](#contribution-guidelines-🤝)
+- [Usage Examples](#usage-examples)
+- [Setup and Installation Instructions](#setup-and-installation-instructions)
+- [Troubleshooting Tips](#troubleshooting-tips)
+- [Contribution Guidelines](#contribution-guidelines)
+
 
 
 
