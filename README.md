@@ -29,20 +29,13 @@
 </div>
 
 ## Table of Contents
-
-1. [Project Overview](#project-overview-🌍)
-    - [QuantumPhysicsBot Description](#project-overview-🌍)
-2. [Features](#features-🚀)
-    - [Integration with LLM](#features-🚀)
-    - [Image Interpretation](#features-🚀)
-    - [Performance Analysis](#features-🚀)
-    - [Custom Knowledge Base](#features-🚀)
-    - [Admin Panel](#features-🚀)
-3. [Future Enhancements (To-Do)](#future-enhancements-to-do-🛠)
-4. [Usage Examples](#usage-examples-🧪)
-5. [Setup and Installation Instructions](#setup-and-installation-instructions-🖥)
-6. [Troubleshooting Tips](#troubleshooting-tips-🛠)
-7. [Contribution Guidelines](#contribution-guidelines-🤝)
+- [Project Overview](#project-overview-🌍)
+  - [Features](#features-🚀)
+    - [Future Enhancements (To-Do)](#future-enhancements-to-do-🛠)
+  - [Usage Examples](#usage-examples-🧪)
+  - [Setup and Installation Instructions](#setup-and-installation-instructions-🖥)
+  - [Troubleshooting Tips](#troubleshooting-tips-🛠)
+  - [Contribution Guidelines](#contribution-guidelines-🤝)
 
 
 ## Project Overview 🌍
