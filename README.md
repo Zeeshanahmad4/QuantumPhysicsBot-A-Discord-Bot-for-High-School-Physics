@@ -29,6 +29,24 @@
 </div>
 
 
+## Table of Contents
+
+1. [Project Overview](https://github.com/Zeeshanahmad4/QuantumPhysicsBot-A-Discord-Bot-for-High-School-Physics#project-overview-🌍)
+    - [QuantumPhysicsBot Description](https://github.com/Zeeshanahmad4/QuantumPhysicsBot-A-Discord-Bot-for-High-School-Physics#project-overview-🌍)
+2. [Features](https://github.com/Zeeshanahmad4/QuantumPhysicsBot-A-Discord-Bot-for-High-School-Physics#features-🚀)
+    - [Integration with LLM](https://github.com/Zeeshanahmad4/QuantumPhysicsBot-A-Discord-Bot-for-High-School-Physics#features-🚀)
+    - [Image Interpretation](https://github.com/Zeeshanahmad4/QuantumPhysicsBot-A-Discord-Bot-for-High-School-Physics#features-🚀)
+    - [Performance Analysis](https://github.com/Zeeshanahmad4/QuantumPhysicsBot-A-Discord-Bot-for-High-School-Physics#features-🚀)
+    - [Custom Knowledge Base](https://github.com/Zeeshanahmad4/QuantumPhysicsBot-A-Discord-Bot-for-High-School-Physics#features-🚀)
+    - [Admin Panel](https://github.com/Zeeshanahmad4/QuantumPhysicsBot-A-Discord-Bot-for-High-School-Physics#features-🚀)
+3. [Future Enhancements (To-Do)](https://github.com/Zeeshanahmad4/QuantumPhysicsBot-A-Discord-Bot-for-High-School-Physics#future-enhancements-to-do-🛠)
+4. [Usage Examples](https://github.com/Zeeshanahmad4/QuantumPhysicsBot-A-Discord-Bot-for-High-School-Physics#usage-examples-🧪)
+5. [Setup and Installation Instructions](https://github.com/Zeeshanahmad4/QuantumPhysicsBot-A-Discord-Bot-for-High-School-Physics#setup-and-installation-instructions-🖥)
+6. [Troubleshooting Tips](https://github.com/Zeeshanahmad4/QuantumPhysicsBot-A-Discord-Bot-for-High-School-Physics#troubleshooting-tips-🛠)
+7. [Contribution Guidelines](https://github.com/Zeeshanahmad4/QuantumPhysicsBot-A-Discord-Bot-for-High-School-Physics#contribution-guidelines-🤝)
+
+
+
 ## Project Overview 🌍
 
 **QuantumPhysicsBot** is a friendly Discord bot designed to assist high school students with their physics questions. It harnesses the power of advanced language models to provide informative and conversational responses, all while following the Socratic method. Dive into the world of physics with your own AI-powered tutor!
