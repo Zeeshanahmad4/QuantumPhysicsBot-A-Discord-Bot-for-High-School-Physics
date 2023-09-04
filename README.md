@@ -32,7 +32,7 @@
 ## Table of Contents
 - [Project Overview](#project-overview-)
 - [Features](#features-)
-    - [Future Enhancements (To-Do)](#-future-enhancements-to-do-)
+   - [Future Enhancements (To-Do)](#-future-enhancements-to-do-)
 
 
 
@@ -49,8 +49,9 @@ PhysicsBot Galaxy aims to bridge the gap between students' curiosity and the vas
 - **Performance Analysis**: Compares model's answers with sample Q/A pairs.
 - **Custom Knowledge Base**: Uses a knowledge base for reference when answering questions.
 - **Admin Panel**: Monitors LLM usage statistics and API call costs.
-
-## Future Enhancements (To-Do) 🌱
+-
+  
+  ## Future Enhancements (To-Do) 🌱
 
 - **Voice Integration**: Answer questions through voice in Discord voice channels.
 - **Topic Specific Training**: Fine-tune the bot for specific physics topics.
