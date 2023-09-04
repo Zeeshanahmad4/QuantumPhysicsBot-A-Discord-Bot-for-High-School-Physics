@@ -36,6 +36,26 @@
 
 
 
+# Table of Contents
+
+- [Project Overview 🚀](#project-overview-🚀)
+- [Features 🚀](#features-🚀)
+  - [LLM Integration](#llm-integration)
+  - [Image Interpretation](#image-interpretation)
+  - [Performance Analysis](#performance-analysis)
+  - [Custom Knowledge Base](#custom-knowledge-base)
+  - [Admin Panel](#admin-panel)
+- [Future Enhancements (To-Do) 🌱](#future-enhancements-to-do-🌱)
+  - [Voice Integration](#voice-integration)
+  - [Topic Specific Training](#topic-specific-training)
+  - [Interactive Quizzes](#interactive-quizzes)
+- [Usage Examples 💡](#usage-examples-💡)
+- [Setup and Installation Instructions 🔧](#setup-and-installation-instructions-🔧)
+- [Troubleshooting Tips 🩺](#troubleshooting-tips-🩺)
+- [Contribution Guidelines 🤝](#contribution-guidelines-🤝)
+
+
+
 
 
 ## Project Overview 🚀
@@ -56,7 +76,7 @@ PhysicsBot Galaxy aims to bridge the gap between students' curiosity and the vas
 - **Topic Specific Training**: Fine-tune the bot for specific physics topics.
 - **Interactive Quizzes**: Conduct physics quizzes within Discord.
 
-## 💡 4. Usage Examples
+## Usage Examples 💡
 
 ``` # Ask the bot a physics question
 !ask What is Newton's third law?
@@ -68,7 +88,7 @@ PhysicsBot Galaxy aims to bridge the gap between students' curiosity and the vas
 !admin cost
  ```
 
-🔧 5. Setup and Installation Instructions
+Setup and Installation Instructions 🔧
 
 1. Clone the repository.
 2. Navigate to the project directory.
@@ -77,14 +97,14 @@ PhysicsBot Galaxy aims to bridge the gap between students' curiosity and the vas
 5. Run the bot using `python discord_bot/bot.py`.
 
 
-## 🩺 6. Troubleshooting Tips
+## Troubleshooting Tips 🩺
 
 - Ensure you have the correct Python version installed.
 - Check if the bot has the necessary permissions in Discord.
 - For image interpretation issues, ensure the image is clear and readable.
 
 
-## 🤝 7. Contribution Guidelines
+## Contribution Guidelines 🤝
 
 1. Fork the repository.
 2. Create a new branch for your feature or fix.
