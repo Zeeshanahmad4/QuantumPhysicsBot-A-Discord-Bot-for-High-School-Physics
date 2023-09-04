@@ -28,23 +28,21 @@
   <strong>For discussion, queries, and freelance work. Do reach me.👆👆👆</strong>
 </div>
 
-
 ## Table of Contents
 
-1. [Project Overview](https://github.com/Zeeshanahmad4/QuantumPhysicsBot-A-Discord-Bot-for-High-School-Physics#project-overview-🌍)
-    - [QuantumPhysicsBot Description](https://github.com/Zeeshanahmad4/QuantumPhysicsBot-A-Discord-Bot-for-High-School-Physics#project-overview-🌍)
-2. [Features](https://github.com/Zeeshanahmad4/QuantumPhysicsBot-A-Discord-Bot-for-High-School-Physics#features-🚀)
-    - [Integration with LLM](https://github.com/Zeeshanahmad4/QuantumPhysicsBot-A-Discord-Bot-for-High-School-Physics#features-🚀)
-    - [Image Interpretation](https://github.com/Zeeshanahmad4/QuantumPhysicsBot-A-Discord-Bot-for-High-School-Physics#features-🚀)
-    - [Performance Analysis](https://github.com/Zeeshanahmad4/QuantumPhysicsBot-A-Discord-Bot-for-High-School-Physics#features-🚀)
-    - [Custom Knowledge Base](https://github.com/Zeeshanahmad4/QuantumPhysicsBot-A-Discord-Bot-for-High-School-Physics#features-🚀)
-    - [Admin Panel](https://github.com/Zeeshanahmad4/QuantumPhysicsBot-A-Discord-Bot-for-High-School-Physics#features-🚀)
-3. [Future Enhancements (To-Do)](https://github.com/Zeeshanahmad4/QuantumPhysicsBot-A-Discord-Bot-for-High-School-Physics#future-enhancements-to-do-🛠)
-4. [Usage Examples](https://github.com/Zeeshanahmad4/QuantumPhysicsBot-A-Discord-Bot-for-High-School-Physics#usage-examples-🧪)
-5. [Setup and Installation Instructions](https://github.com/Zeeshanahmad4/QuantumPhysicsBot-A-Discord-Bot-for-High-School-Physics#setup-and-installation-instructions-🖥)
-6. [Troubleshooting Tips](https://github.com/Zeeshanahmad4/QuantumPhysicsBot-A-Discord-Bot-for-High-School-Physics#troubleshooting-tips-🛠)
-7. [Contribution Guidelines](https://github.com/Zeeshanahmad4/QuantumPhysicsBot-A-Discord-Bot-for-High-School-Physics#contribution-guidelines-🤝)
-
+1. [Project Overview](#project-overview-🌍)
+    - [QuantumPhysicsBot Description](#project-overview-🌍)
+2. [Features](#features-🚀)
+    - [Integration with LLM](#features-🚀)
+    - [Image Interpretation](#features-🚀)
+    - [Performance Analysis](#features-🚀)
+    - [Custom Knowledge Base](#features-🚀)
+    - [Admin Panel](#features-🚀)
+3. [Future Enhancements (To-Do)](#future-enhancements-to-do-🛠)
+4. [Usage Examples](#usage-examples-🧪)
+5. [Setup and Installation Instructions](#setup-and-installation-instructions-🖥)
+6. [Troubleshooting Tips](#troubleshooting-tips-🛠)
+7. [Contribution Guidelines](#contribution-guidelines-🤝)
 
 
 ## Project Overview 🌍
