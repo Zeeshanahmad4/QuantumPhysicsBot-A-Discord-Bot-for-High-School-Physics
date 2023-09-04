@@ -30,7 +30,7 @@
 
 <!-- TABLE OF CONTENTS -->
 ## Table of Contents
-- [Project Overview](#project-overview-)
+- [Project Overview](#project-overview)
 
 
 
