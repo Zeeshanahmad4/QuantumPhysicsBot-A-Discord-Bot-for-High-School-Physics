@@ -42,7 +42,7 @@
 
 PhysicsBot Galaxy aims to bridge the gap between students' curiosity and the vast world of physics. It's built on top of the powerful GPT-4 (or similar) AI model and is integrated with Discord, providing students an easy and interactive way to clarify their doubts right from their favorite chat platform.
 
-## 🚀Features
+## Features 🚀
 
 - **LLM Integration**: Directly integrated with Language Learning Models to answer queries.
 - **Image Interpretation**: Understands and answers questions based on diagrams or images.
