@@ -28,23 +28,15 @@
   <strong>For discussion, queries, and freelance work. Do reach me.👆👆👆</strong>
 </div>
 
-\*\*Table of Contents:\*\*
+**Table of Contents:**
 
-  
-
-1. \[Project Overview\](#-project-overview)
-
-2. \[Features\](#-features)
-
-\- \[Future Enhancements\](#-future-enhancements)
-
-4. \[Usage Examples\](#-usage-examples)
-
-\- \[Setup and Installation Instructions\](#-setup-and-installation-instructions)
-
-6. \[Troubleshooting Tips\](#-troubleshooting-tips)
-
-7. \[Contribution Guidelines\](#-contribution-guidelines)
+1. [Project Overview](#-project-overview)
+2. [Features](#-features)
+      - [Future Enhancements](#-future-enhancements)
+4. [Usage Examples](#-usage-examples)
+      - [Setup and Installation Instructions](#-setup-and-installation-instructions)
+6. [Troubleshooting Tips](#-troubleshooting-tips)
+7. [Contribution Guidelines](#-contribution-guidelines)
 
 
 ## 📜 1. Project Overview
