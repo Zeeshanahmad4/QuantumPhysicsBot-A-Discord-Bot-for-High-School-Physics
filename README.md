@@ -28,6 +28,8 @@
   <strong>For discussion, queries, and freelance work. Do reach me.👆👆👆</strong>
 </div>
 
+
+
 PhysicsBot Galaxy is a state-of-the-art Discord bot designed to assist high school students with their physics questions. Using advanced language learning models, it provides answers in a conversational tone, following the Socratic method
 
 ## 📜 1. Project Overview
