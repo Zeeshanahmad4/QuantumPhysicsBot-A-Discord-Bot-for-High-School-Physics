@@ -30,8 +30,8 @@
 
 ## Table of Contents
 - [Project Overview](#project-overview-)
-  - [Features](#features-🚀)
-    - [Future Enhancements (To-Do)](#future-enhancements-to-do-🛠)
+- [Features](#features-)
+   - [Future Enhancements (To-Do)](#future-enhancements-to-do-)
   - [Usage Examples](#usage-examples-🧪)
   - [Setup and Installation Instructions](#setup-and-installation-instructions-🖥)
   - [Troubleshooting Tips](#troubleshooting-tips-🛠)
