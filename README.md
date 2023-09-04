@@ -28,17 +28,17 @@
   <strong>For discussion, queries, and freelance work. Do reach me.👆👆👆</strong>
 </div>
 
-<!-- TABLE OF CONTENTS -->
 ## Table of Contents
 
-- [Project Overview](#project-overview-)
-- [Features](#features-)
-  - [Future Features (To-Do)](#-future-features-to-do)
-- [Requirements](#requirements-)
-- [Usage Examples](#usage-examples-)
-  - [Setup and Installation Instructions](#setup-and-installation-instructions-)
-- [Troubleshooting Tips](#troubleshooting-tips-)
-- [Contribution Guidelines](#contribution-guidelines-)
+1. [Project Overview](#1-project-overview)
+2. [Features](#2-features)
+     - [Future Enhancements (To-Do)](#3-future-enhancements-to-do)
+4. [Usage Examples](#4-usage-examples)
+     - [Setup and Installation Instructions](#5-setup-and-installation-instructions)
+6. [Troubleshooting Tips](#6-troubleshooting-tips)
+7. [Contribution Guidelines](#7-contribution-guidelines)
+
+
 
 ## 📜 1. Project Overview
 
