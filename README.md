@@ -50,7 +50,7 @@ PhysicsBot Galaxy aims to bridge the gap between students' curiosity and the vas
 - **Custom Knowledge Base**: Uses a knowledge base for reference when answering questions.
 - **Admin Panel**: Monitors LLM usage statistics and API call costs.
 
-### Future Enhancements (To-Do) 🌱
+## Future Enhancements (To-Do) 🌱
 
 - **Voice Integration**: Answer questions through voice in Discord voice channels.
 - **Topic Specific Training**: Fine-tune the bot for specific physics topics.
