@@ -32,12 +32,68 @@
 
 1. [Project Overview](#1-project-overview)
 2. [Features](#2-features)
-    - [Future Enhancements (To-Do)](#3-future-enhancements-to-do)
+    - [LLM Integration](#llm-integration)
+    - [Image Interpretation](#image-interpretation)
+    - [Performance Analysis](#performance-analysis)
+    - [Custom Knowledge Base](#custom-knowledge-base)
+    - [Admin Panel](#admin-panel)
+3. [Future Enhancements (To-Do)](#3-future-enhancements-to-do)
+    - [Voice Integration](#voice-integration)
+    - [Topic Specific Training](#topic-specific-training)
+    - [Interactive Quizzes](#interactive-quizzes)
 4. [Usage Examples](#4-usage-examples)
-    - [Setup and Installation Instructions](#5-setup-and-installation-instructions)
+5. [Setup and Installation Instructions](#5-setup-and-installation-instructions)
 6. [Troubleshooting Tips](#6-troubleshooting-tips)
 7. [Contribution Guidelines](#7-contribution-guidelines)
 
+---
+
+## 1. Project Overview
+
+[...content here...]
+
+---
+
+## 🚀 2. Features
+
+[...content here...]
+
+- **LLM Integration**: ...
+- **Image Interpretation**: ...
+... [and so on for each feature] ...
+
+---
+
+### 🌱 3. Future Enhancements (To-Do)
+
+[...content here...]
+
+- **Voice Integration**: ...
+... [and so on for each feature in this section] ...
+
+---
+
+## 💡 4. Usage Examples
+
+[...content here...]
+
+---
+
+## 🔧 5. Setup and Installation Instructions
+
+[...content here...]
+
+---
+
+## 🩺 6. Troubleshooting Tips
+
+[...content here...]
+
+---
+
+## 🤝 7. Contribution Guidelines
+
+[...content here...]
 
 
 
