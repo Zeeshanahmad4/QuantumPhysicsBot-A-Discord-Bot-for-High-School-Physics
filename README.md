@@ -30,7 +30,7 @@
 
 # Table of Contents
 
-- [1. Project Overview](#1-project-overview)
+- [Project Overview](#project-overview)
 - [2. Features](#2-features)
   - [LLM Integration](#llm-integration)
   - [Image Interpretation](#image-interpretation)
@@ -49,7 +49,7 @@
 
 
 
-## 📜 1. Project Overview
+## 📜 Project Overview
 
 PhysicsBot Galaxy aims to bridge the gap between students' curiosity and the vast world of physics. It's built on top of the powerful GPT-4 (or similar) AI model and is integrated with Discord, providing students an easy and interactive way to clarify their doubts right from their favorite chat platform.
 
